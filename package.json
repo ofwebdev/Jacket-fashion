@@ -1,0 +1,22 @@
+{
+  "name": "tailwind_theme",
+  "version": "1.0.0",
+  "description": "Multiple theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "Lol",
+    "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [
+    "web",
+    "development"
+  ],
+  "author": "Omor faruk",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3"
+  }
+}
